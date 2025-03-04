@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suswa Substation",
+                "status": "Normal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.30, -1.10]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Embakasi Substation",
+                "status": "Maintenance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.90, -1.30]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lessos Substation",
+                "status": "Normal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.50, 0.20]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kisumu Substation",
+                "status": "Normal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.75, -0.10]
+            }
+        }
+    ]
+}
